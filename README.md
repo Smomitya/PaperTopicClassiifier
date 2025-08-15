@@ -1,12 +1,11 @@
 # PaperTopicClassiifier
 Finetuning a BERT-based Transformer using PyTorch to classify scientific papers.
-You can try it here: https://huggingface.co/spaces/Smomitya/PaperClassifier
-[![PaperClassifier](https://huggingface.co/spaces/Smomitya/PaperClassifier)
+
 
 A machine learning project that fine-tunes a Transformer model to classify the **topic of a scientific paper** from its title and abstract. The trained model is deployed as an **interactive Streamlit app** and published on **Hugging Face Hub** for easy access.
 
 ## 🌐 Try It Online
-
+[![PaperClassifier](https://huggingface.co/spaces/Smomitya/PaperClassifier)]
 
 ## 🚀 Features
 - **Transformer-based architecture** (BERT or similar) fine-tuned on labeled scientific papers  
