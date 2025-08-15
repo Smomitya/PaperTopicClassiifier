@@ -15,8 +15,8 @@ A machine learning project that fine-tunes a Transformer model to classify the *
 
 
 ## Features
-- **Transformer-based architecture** (BERT or similar) fine-tuned on labeled scientific papers  
-- **Input**: Paper title + abstract  
+- **Transformer-based architecture** BERT fine-tuned on labeled scientific papers  
+- **Input**: Paper title and/or abstract  
 - **Output**: Predicted topic (e.g., Physics, Biology, Computer Science, etc.)  
 - **Interactive UI** built with Streamlit  
 - **Hugging Face Hub** integration for model hosting and sharing  
